@@ -1,2 +1,2 @@
 # hello-world
-hey vsauce michael here
+Hey VSauce! Michael here.
